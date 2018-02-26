@@ -1,0 +1,24 @@
+{
+  "name": "applitest",
+  "version": "1.0.0",
+  "description": "testing applitool",
+  "main": "index.js",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "eyes.images": "^0.0.50",
+    "selenium-webdriver": "^3.6.0"
+  },
+  "devDependencies": {
+    "async": "^2.6.0",
+    "chromedriver": "^2.35.0",
+    "eyes.selenium": "0.0.77"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "applitool"
+  ],
+  "author": "apurv",
+  "license": "ISC"
+}
