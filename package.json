@@ -4,7 +4,7 @@
   "description": "testing applitool",
   "main": "index.js",
   "dependencies": {
-    "csvtojson": "^1.1.9",
+    "csv-load-sync": "^1.0.0",
     "eyes.images": "^0.0.50",
     "selenium-webdriver": "^3.6.0"
   },
